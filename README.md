@@ -1,13 +1,13 @@
 # HACKberry
-HACKberry is a practical model for daily use created through the cooperation of actual users.  
-Hackberries, which are a species of trees included in the elm family, grow many branches.  
-Our goal is to develop an artificial arm that would become the platform upon which developers and artificial arm users from all over the world are able to build as they wish.  
+
+HACKberry is a practical model for daily use created through the cooperation of actual users.
+Hackberries, which are a species of trees included in the elm family, grow many branches.
+Our goal is to develop an artificial arm that would become the platform upon which developers and artificial arm users from all over the world are able to build as they wish.
 The name represents our vision to “hack” at problems, grow branches of joy that reach out to users and enable their ideas and efforts to bear fruit (“berries”).
 
-"HACKberry" provides dual licenses system for Users: one is for non-profit use under this Policy, and the other is for exceptional use (including commercial use).
+"HACKberry" fornece sistema de licenças dupla para os usuários: um é para uso sem fins lucrativos sob esta apólice, eo outro é para uso excepcional (incluindo o uso comercial).
 
-Contents uploaded to the Exiii forum or GitHub may not only be used for development of HACKberry and may not be limited to just Creative Commons Licenses, and may be distributed by Exiii under a proprietary closed license, regardless of whether the content is program code, bug reports, opinions, ideas, etc. and regardless of the circumstances in which it was uploaded or whether it will be used for profit or not.
-
+Conteúdos enviados para o fórum Exiii ou GitHub não só podem ser utilizados para o desenvolvimento de HACKberry e não pode ser limitado a apenas as licenças Creative Commons, e pode ser distribuído por Exiii sob uma licença proprietário fechado, independentemente se o conteúdo é o código do programa, erro relatórios, opiniões, idéias, etc., e independentemente das circunstâncias em que foi enviados ou se vai ser utilizado com fins lucrativos ou não.
 
 # HACKberry Open Source Project Policy
 
